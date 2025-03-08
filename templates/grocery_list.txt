@@ -1,0 +1,13 @@
+Grocery list 		{user_name}		{month} {year}
+==================================================================
+# Kitchen 
+{KITCHEN_ITEMS}
+
+# Cleaning
+{CLEANING_ITEMS}
+
+# HouseHold
+{HOUSEHOLD_ITEMS}
+
+=========================================================
+ 			TOTAL 	- 
